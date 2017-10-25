@@ -7,7 +7,7 @@ in Graph Theory, Algorithms, Data Structures, DBMS, Programming and Complexity T
 ## TIC-TAC-TOE GAME
 
 This is a console based two player tic-tac-toe game which has been designed in Java programming language using Minimax algorithms.
-In this game, first players is considered as Computer and another one is User.
+In this game, first player is considered as Computer and another one is User.
 
 ## DIRECTORY STRUCTURE
 

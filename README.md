@@ -31,7 +31,7 @@ java App
 ```
 When this game starts running , it displays a game board with some options to play this game in the console. A sample game board has been shown below:
 
-![Console Image](https://drive.google.com/file/d/12hEraQwG99shpxz2ShoOSy-o2q2NR9bp/view?usp=sharing)
+![Console Image](https://lh3.googleusercontent.com/5j7bVNulfIwhr4LDRWLXPfDvnTlTx98NRRVzroAT5-C3A9ui9Vnvd61fj-j2ahfAjimohG0OpDs5Ww9zJsXZDP3XX1R9xFdvGDClkPJRmW1llmKiPdbyuOtmkCbggu8VQ2WVdk_dtkrf6hXcOZzdaL5VXI9_MHTu9xF2mVIxd0oGZcGc8jcf3_SEedzuNpoC0ChoruoGDUEgouoNFc_iaTwJ9ZHhvvW28wWU9NcUgiUyNzRNmoNKtLbcI_actFmff2AKTmYuO5wuBPENts0_za0KiBuKEmzRyVp2UOBLMVPqbDf2C16g-XvOMviIxJ81sjcSkioFuyXQwkctiW3NBcYTjIJgepUaOKOIaMXZB_PAwUE5tcxKwkSKGRbostdUlxXNwcqLHIphtgTYy06Nxj8kv9HKWYW7JzppIkRO3RjaoGnOMBjPOWb0h7mhtdkFEsHhTFLvsFBpYFSHKZXUTg8WDwmTatzTUlYDGXIbXNI920bU6ov9hcPpKd4ILMczSPJfn_KALO30neATf7a3paMp3JvJAdKL9b8pE7yoOP2KEyktOoDUOcS46keuo2hXlOWR-jHjUQPGRMcmRoUHfjPomT3euP4ilHBmmSk=w322-h588-no)
 
 This package is available on an "as is" basis. I do not say or imply that it will be useful for 
 whatever you want to do with it. It may also contain bugs, and I assume no responsibility for 

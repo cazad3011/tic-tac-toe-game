@@ -31,7 +31,7 @@ java App
 ```
 When this game starts running , it displays a game board with some options to play this game in the console. A sample game board has been shown below:
 
-![Console Image](https://photos.app.goo.gl/MNO8KDDihw3vbPZs1)
+![Console Image](https://photos.google.com/photo/AF1QipMmydeQXbtyV2i7gr2jS1nEyk0wjTQfSHdlIKHT/edit)
 
 This package is available on an "as is" basis. I do not say or imply that it will be useful for 
 whatever you want to do with it. It may also contain bugs, and I assume no responsibility for 

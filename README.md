@@ -1,9 +1,5 @@
 **@ Author: CHANDRASHEKHAR AZAD**
 
-## ABOUT ME
-
-I am Chandrashekhar Azad, a final year B.Tech Computer Science and Engineering student at BCE Bhagalpur with interest 
-in Graph Theory, Algorithms, Data Structures, DBMS, Programming and Complexity Theory.
 ## TIC-TAC-TOE GAME
 
 This is a console based two player tic-tac-toe game which has been designed in Java programming language using Minimax algorithms.
